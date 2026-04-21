@@ -11,13 +11,7 @@ Ideen:
 vielleicht kann man den Lautsprecher und die Stromversorgung doppelt nutzen:
   mit einer zusätzlichen Platine für die Phonie-Funktion
   
-Referenzen:
 
-Möglichekeit zum öffnen von Kallsup:
-https://www.youtube.com/watch?v=WwGdQhGWjLQ
-
-Phoniebox
-https://phoniebox.de/
 
 ## Hardware
 AZDelivery RFID Kit RC522 mit Reader, Chip und Card 13,56MHz SPI
@@ -31,4 +25,13 @@ Raspberry Pi Zero 2 WH
 |                                                                  |                   |       |
 Das wird knapp dort alles hineinzubekommen
 
+## Referenzen:
+
+Möglichekeit zum öffnen von Kallsup:
+https://www.youtube.com/watch?v=WwGdQhGWjLQ
+
+Phoniebox
+https://phoniebox.de/
+
+https://community.home-assistant.io/t/converting-new-5-ikea-kallsup-speaker-into-a-esphome-media-player/1000870
 
